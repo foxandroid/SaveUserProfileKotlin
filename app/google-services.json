@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "352623956550",
+    "project_id": "foxandroid-680cb",
+    "storage_bucket": "foxandroid-680cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352623956550:android:8d6d9c1f4d0a99c1e87047",
+        "android_client_info": {
+          "package_name": "com.example.saveuserprofilekotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352623956550-b2qemi1s927um8rtmpdso6cmi042rp0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4VXyfTGiHzHny8GtbWFqt2X84JXCuSQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352623956550-b2qemi1s927um8rtmpdso6cmi042rp0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
